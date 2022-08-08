@@ -52,11 +52,17 @@ p {
     width: 300px;
  }
 
+ button:hover {
+    background-color: #e5e7eb;
+    color: #1f2937;
+ }
+
+
  button {
     padding: 5px 15px;
     margin-top: 5px;
     background-color: #3882f6;
-    border: none;
+    border: transparent;
     border-radius: 8px;
     font-size: 18px;
     color: #e5e7eb;
